@@ -1,0 +1,4 @@
+-> git init -> inicializa o repositório local do git
+-> git add <arquivo> -> adiciona na branch do repositório local -> torna o arquivo passível de ser vigiado/commitado pelo git
+-> git status -> passa a situação atual dos arquivos e pastas do repositório local
+-> git commit -> ele salva o que foi desenvolvido no momento, permitindo retornar àquele estado do código
